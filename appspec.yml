@@ -19,3 +19,7 @@ hooks:
     - location: scripts/validate_server.sh
       timeout: 300
       runas: root
+      
+      EncryptionKey: a6fdbbea-e3bd-4c7e-8cb1-29df9c6e8cc7
+-Location: String
+Type: String
